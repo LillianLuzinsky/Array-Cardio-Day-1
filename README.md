@@ -12,3 +12,4 @@
 6) How to sort with the ternary operator
 7) How to use the reduce method
 8) How to sort alpahbetically with the ternary operator
+9) Didn't quite get the reduce exercise on the last exercise
