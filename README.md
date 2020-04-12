@@ -10,3 +10,4 @@
 4) Still getting used to the arrow function
 5) How to use map with arrow function
 6) How to sort with the ternarary operator
+7) How to use the reduce method
