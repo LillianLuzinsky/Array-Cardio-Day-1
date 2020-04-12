@@ -9,5 +9,5 @@
 3) Remembered how to use console.table
 4) Still getting used to the arrow function
 5) How to use map with arrow function
-6) How to sort with the ternarary operator
+6) How to sort with the ternary operator
 7) How to use the reduce method
