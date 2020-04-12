@@ -11,3 +11,4 @@
 5) How to use map with arrow function
 6) How to sort with the ternary operator
 7) How to use the reduce method
+8) How to sort alpahbetically with the ternary operator
